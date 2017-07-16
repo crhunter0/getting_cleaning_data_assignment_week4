@@ -15,34 +15,40 @@ Subject			2
 	Number identifying individual subjects being measured.   
 		1 to 30
 
-tBodyAcc-mean()-X	
+tBodyAcc-mean()-X	   
 9  
 Average of the mean value of a subject’s time domain body acceleration signal for the X axis (grouped by Subject and Activity).    
 -0.999999 to 0.9999999
 
-tBodyAcc-mean()-Y		9
-Average of the mean value of a subject’s time domain body acceleration signal for the Y axis (grouped by Subject and Avitity).
-      -0.999999 to 0.9999999
+tBodyAcc-mean()-Y		
+9
+Average of the mean value of a subject’s time domain body acceleration signal for the Y axis (grouped by Subject and Avitity).    
+-0.999999 to 0.9999999
 
-tBodyAcc-mean()-Z		9
-Average of the mean value of a subject’s time domain body acceleration signal for the Z axis (grouped by Subject and Avitity).
-      -0.999999 to 0.9999999
+tBodyAcc-mean()-Z
+9   
+Average of the mean value of a subject’s time domain body acceleration signal for the Z axis (grouped by Subject and Avitity).    
+-0.999999 to 0.9999999
       
-tBodyAcc-std()-X		9
-Average of the standard deviation value of a subject’s time domain body acceleration signal for the X axis (grouped by Subject and Avitity).
-      -0.999999 to 0.9999999
+tBodyAcc-std()-X   
+9    
+Average of the standard deviation value of a subject’s time domain body acceleration signal for the X axis (grouped by Subject and Avitity).    
+-0.999999 to 0.9999999 
       
-tBodyAcc-std()-Y		9
-Average of the standard deviation value of a subject’s time domain body acceleration signal for the Y axis (grouped by Subject and Avitity).
-      -0.999999 to 0.9999999
+tBodyAcc-std()-Y    
+9    
+Average of the standard deviation value of a subject’s time domain body acceleration signal for the Y axis (grouped by Subject and Avitity).    
+-0.999999 to 0.9999999
 
-tBodyAcc-std()-Z		9
-Average of the standard deviation value of a subject’s time domain body acceleration signal for the Z axis (grouped by Subject and Avitity).
-      -0.999999 to 0.9999999
+tBodyAcc-std()-Z    
+9    
+Average of the standard deviation value of a subject’s time domain body acceleration signal for the Z axis (grouped by Subject and Avitity).    
+-0.999999 to 0.9999999
 
-tGravityAcc-mean()-X	9
-Average of the mean value of a subject’s time domain gravity acceleration signal for the X axis (grouped by Subject and Activity).
-      -0.999999 to 0.9999999
+tGravityAcc-mean()-X   9
+
+Average of the mean value of a subject’s time domain gravity acceleration signal for the X axis (grouped by Subject and Activity).    
+-0.999999 to 0.9999999
 
 tGravityAcc-mean()-Y	9
 Average of the mean value of a subject’s time domain gravity acceleration signal for the Y axis (grouped by Subject and Activity).
