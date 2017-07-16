@@ -11,114 +11,101 @@ Activity
       *STANDING          
       *LAYING
       
-Subject			2  
+Subject			  
 	Number identifying individual subjects being measured.   
 		1 to 30
 
-tBodyAcc-mean()-X	   
-9  
-Average of the mean value of a subject’s time domain body acceleration signal for the X axis (grouped by Subject and Activity).    
--0.999999 to 0.9999999
+tBodyAcc-mean()-X		
+Average of the mean value of a subject’s time domain body acceleration signal for the X axis (grouped by Subject and Activity).    -0.999999 to 0.9999999
 
 tBodyAcc-mean()-Y		
-9
-Average of the mean value of a subject’s time domain body acceleration signal for the Y axis (grouped by Subject and Avitity).    
--0.999999 to 0.9999999
+Average of the mean value of a subject’s time domain body acceleration signal for the Y axis (grouped by Subject and Avitity).    -0.999999 to 0.9999999
 
-tBodyAcc-mean()-Z
-9   
-Average of the mean value of a subject’s time domain body acceleration signal for the Z axis (grouped by Subject and Avitity).    
--0.999999 to 0.9999999
+tBodyAcc-mean()-Z		 
+Average of the mean value of a subject’s time domain body acceleration signal for the Z axis (grouped by Subject and Avitity).    -0.999999 to 0.9999999
       
-tBodyAcc-std()-X   
-9    
-Average of the standard deviation value of a subject’s time domain body acceleration signal for the X axis (grouped by Subject and Avitity).    
--0.999999 to 0.9999999 
+tBodyAcc-std()-X   	 
+Average of the standard deviation value of a subject’s time domain body acceleration signal for the X axis (grouped by Subject and Avitity).    -0.999999 to 0.9999999 
       
-tBodyAcc-std()-Y    
-9    
-Average of the standard deviation value of a subject’s time domain body acceleration signal for the Y axis (grouped by Subject and Avitity).    
--0.999999 to 0.9999999
+tBodyAcc-std()-Y    	  
+Average of the standard deviation value of a subject’s time domain body acceleration signal for the Y axis (grouped by Subject and Avitity).   -0.999999 to 0.9999999
 
-tBodyAcc-std()-Z    
-9    
-Average of the standard deviation value of a subject’s time domain body acceleration signal for the Z axis (grouped by Subject and Avitity).    
--0.999999 to 0.9999999
+tBodyAcc-std()-Z    	   
+Average of the standard deviation value of a subject’s time domain body acceleration signal for the Z axis (grouped by Subject and Avitity).    -0.999999 to 0.9999999
 
-tGravityAcc-mean()-X   9
-
+tGravityAcc-mean()-X   
 Average of the mean value of a subject’s time domain gravity acceleration signal for the X axis (grouped by Subject and Activity).    
 -0.999999 to 0.9999999
 
-tGravityAcc-mean()-Y	9
+tGravityAcc-mean()-Y	
 Average of the mean value of a subject’s time domain gravity acceleration signal for the Y axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
       
-tGravityAcc-mean()-Z	9
+tGravityAcc-mean()-Z	
 Average of the mean value of a subject’s time domain gravity acceleration signal for the Z axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
       
-tGravityAcc-std()-X		9
+tGravityAcc-std()-X		
 Average of the standard deviation value of a subject’s time domain gravity acceleration signal for the X axis (grouped by Subject and Activity).
       0.999999 to 0.9999999
       
-tGravityAcc-std()-Y		9
+tGravityAcc-std()-Y		
 Average of the standard deviation value of a subject’s time domain gravity acceleration signal for the Y axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
       
-tGravityAcc-std()-Z		9
+tGravityAcc-std()-Z		
 Average of the standard deviation value of a subject’s time domain gravity acceleration signal for the Z axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
       
-tBodyAccJerk-mean()-X	9
+tBodyAccJerk-mean()-X	
 Average of the mean value of a subject’s time domain body acceleration jerk signal for the X axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
 
-tBodyAccJerk-mean()-Y	9
+tBodyAccJerk-mean()-Y	
 Average of the mean value of a subject’s time domain body acceleration jerk signal for the Y axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
 
-tBodyAccJerk-mean()-Z	9
+tBodyAccJerk-mean()-Z	
 Average of the mean value of a subject’s time domain body acceleration jerk signal for the Z axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
 
-tBodyAccJerk-std()-X	9
+tBodyAccJerk-std()-X	
 Average of the standard deviation value of a subject’s time domain body acceleration jerk signal for the X axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
 
-tBodyAccJerk-std()-Y	9
+tBodyAccJerk-std()-Y	
 Average of the standard deviation value of a subject’s time domain body acceleration jerk signal for the Y axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
 
-tBodyAccJerk-std()-Z	9
+tBodyAccJerk-std()-Z	
 Average of the standard deviation value of a subject’s time domain body acceleration jerk signal for the Z axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
 
-tBodyGyro-mean()-X		9
+tBodyGyro-mean()-X		
 Average of the mean value of a subject’s time domain body gyroscope signal for the X axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
 
-tBodyGyro-mean()-Y		9
+tBodyGyro-mean()-Y		
 Average of the mean value of a subject’s time domain body gyroscope signal for the Y axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
 
-tBodyGyro-mean()-Z		9
+tBodyGyro-mean()-Z		
 Average of the mean value of a subject’s time domain body gyroscope signal for the Z axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
 
-tBodyGyro-std()-X		9
+tBodyGyro-std()-X		
 Average of the standard deviation value of a subject’s time domain body gyroscope signal for the X axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
 
-tBodyGyro-std()-Y		9
+tBodyGyro-std()-Y		
 Average of the standard deviation value of a subject’s time domain body gyroscope signal for the Y axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
 
-tBodyGyro-std()-Z		9
+tBodyGyro-std()-Z		
 Average of the standard deviation value of a subject’s time domain body gyroscope signal for the Z axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
 
-tBodyGyroJerk-mean()-X	9
+tBodyGyroJerk-mean()-X	
 Average of the mean value of a subject’s time domain body gyroscope jerk signal for the X axis (grouped by Subject and Activity).
       -0.999999 to 0.9999999
 
