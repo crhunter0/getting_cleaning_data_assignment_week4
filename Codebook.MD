@@ -15,9 +15,10 @@ Subject			2
 	Number identifying individual subjects being measured.   
 		1 to 30
 
-tBodyAcc-mean()-X	     9
-Average of the mean value of a subject’s time domain body acceleration signal for the X axis (grouped by Subject and Activity).  
-      -0.999999 to 0.9999999
+tBodyAcc-mean()-X	
+9  
+Average of the mean value of a subject’s time domain body acceleration signal for the X axis (grouped by Subject and Activity).    
+-0.999999 to 0.9999999
 
 tBodyAcc-mean()-Y		9
 Average of the mean value of a subject’s time domain body acceleration signal for the Y axis (grouped by Subject and Avitity).
